@@ -17,11 +17,7 @@ Follow these simple steps to set up your own bot:
 
 1) create you're own bot and get the token from the botFather
 
-2) set up you're envirenment and pull the bot.js code and install :
-npm install express
-npm install body-parser
-npm install cors
-npm install node-telegram-bot-api
+2) set up you're envirenment and pull the bot.js code and install : express, body-parser, cors, node-telegram-bot-api
 
 4) run the bot on you're terminal : node bot.js
 
