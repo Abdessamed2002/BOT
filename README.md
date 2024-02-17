@@ -45,6 +45,11 @@ Clone the bot repository
 git clone https://github.com/Abdessamed2002/ToDoAppBot
 ```
 
+Get into the repo
+```bash
+cd ToDoAppBot
+```
+
 Then clone the todo app repo
 ```bash
 git clone https://github.com/Abdessamed2002/ToDoApp
